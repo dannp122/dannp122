@@ -7,11 +7,11 @@ I'm currently sharpening my skills in **SQL, Excel, Power BI, and Python** to he
 
 ## 📊 Personal Project
 
-### 🔹 Customer Retention Analysis
+### Customer Retention Analysis
 - Analyzed customer behavior using cohort methodology.
 - Tools used: SQL, Excel, Power BI  
-- 👉 [📄 View report (PDF)](https://dannp122.github.io/Cohort-Retention-Project/Cohort_Retention.pdf)  
-- 🌐 [🔗 View project presentation](https://dannp122.github.io/Cohort-Retention-Project/)
+- [View report (PDF)](https://dannp122.github.io/Cohort-Retention-Project/Cohort_Retention.pdf)  
+- [View project presentation](https://dannp122.github.io/Cohort-Retention-Project/)
 
 ---
 
@@ -39,11 +39,11 @@ Hiện tại, mình đang trau dồi kỹ năng với **SQL, Excel, Power BI và
 
 ---
 
-### 🔹 Dự án phân tích hành vi giữ chân khách hàng
+### Dự án phân tích hành vi giữ chân khách hàng
 - Phân tích dữ liệu theo phương pháp Cohort.
 - Công cụ sử dụng: SQL, Excel, Power BI  
-- 👉 [📄 Xem báo cáo PDF](https://dannp122.github.io/Cohort-Retention-Project/Cohort_Retention.pdf)  
-- 🌐 [🔗 Trình bày dự án](https://dannp122.github.io/Cohort-Retention-Project/)
+- [Xem báo cáo PDF](https://dannp122.github.io/Cohort-Retention-Project/Cohort_Retention.pdf)  
+- [Trình bày dự án](https://dannp122.github.io/Cohort-Retention-Project/)
 
 ---
 
