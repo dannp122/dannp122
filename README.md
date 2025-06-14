@@ -28,7 +28,7 @@ I'm currently sharpening my skills in **SQL, Excel, Power BI, and Python** to he
 
 - 📧 Email: pdan860@gmail.com  
 - 💼 LinkedIn: [https://www.linkedin.com/in/nguyen-phuong-dan/](https://www.linkedin.com/in/nguyen-phuong-dan/)  
-- 🌐 Portfolio: [https://dannp122.github.io/Phuong-Dan/](https://dannp122.github.io/Phuong-Dan/)
+- 🌐 Portfolio: [https://dannp122.github.io/Cohort-Retention-Project/](https://dannp122.github.io/Cohort-Retention-Project/)
 
 ---
 
@@ -58,7 +58,7 @@ Hiện tại, mình đang trau dồi kỹ năng với **SQL, Excel, Power BI và
 
 📫 Email: pdan860@gmail.com  
 💼 LinkedIn: [https://www.linkedin.com/in/nguyen-phuong-dan/](https://www.linkedin.com/in/nguyen-phuong-dan/)  
-🌐 Portfolio: [https://dannp122.github.io/Phuong-Dan/](https://dannp122.github.io/Phuong-Dan/)
+🌐 Portfolio: [https://dannp122.github.io/Cohort-Retention-Project/](https://dannp122.github.io/Cohort-Retention-Project/)
 
 ---
 
