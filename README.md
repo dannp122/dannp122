@@ -1,34 +1,64 @@
-# 👋 Xin chào! Mình là Phương Đan
+# 👋 Hello! I'm Phuong Dan
 
-🎯 Một Data Analyst với niềm đam mê phân tích dữ liệu và kể chuyện bằng con số.  
-Hiện mình đang trau dồi kỹ năng với các công cụ như **SQL, Excel, Power BI, và Python** để tạo ra những insight giá trị giúp doanh nghiệp ra quyết định tốt hơn.
-
----
-
-## 📊 Dự án cá nhân
-
-### 🔹 Customer Retention Analysis (Phân tích giữ chân khách hàng)
-- Phân tích hành vi khách hàng theo Cohort.
-- Công cụ: SQL, Excel, Power BI
-- 👉 [📄 Xem báo cáo PDF](https://github.com/dannp122/Phuong-Dan/blob/main/Cohort_Retention.pdf)  
-- 🌐 [🔗 Xem trình bày dự án tại đây](https://dannp122.github.io/Phuong-Dan/)
+🎯 A passionate Data Analyst who enjoys uncovering insights and telling stories through data.  
+I'm currently sharpening my skills in **SQL, Excel, Power BI, and Python** to help businesses make smarter decisions.
 
 ---
 
-## 🧰 Kỹ năng
+## 📊 Personal Project
 
-- **Phân tích dữ liệu:** SQL, Excel, Power Query
-- **Trực quan hóa dữ liệu:** Power BI, Tableau
-- **Lập trình:** Python (pandas, matplotlib)
+### 🔹 Customer Retention Analysis
+- Analyzed customer behavior using cohort methodology.
+- Tools used: SQL, Excel, Power BI  
+- 👉 [📄 View report (PDF)](https://dannp122.github.io/Cohort-Retention-Project/Cohort_Retention.pdf)  
+- 🌐 [🔗 View project presentation](https://dannp122.github.io/Cohort-Retention-Project/)
+
+---
+
+## 🧰 Skills
+
+- **Data Analysis:** SQL, Excel, Power Query  
+- **Data Visualization:** Power BI, Tableau  
+- **Programming:** Python (pandas, matplotlib)  
+- **Others:** Git, GitHub, Google Data Studio, Jupyter Notebook
+
+---
+
+## 📫 Contact
+
+- 📧 Email: pdan860@gmail.com  
+- 💼 LinkedIn: [https://www.linkedin.com/in/nguyen-phuong-dan/](https://www.linkedin.com/in/nguyen-phuong-dan/)  
+- 🌐 Portfolio: [https://dannp122.github.io/Phuong-Dan/](https://dannp122.github.io/Phuong-Dan/)
+
+---
+
+## 🇻🇳 Giới thiệu bằng Tiếng Việt
+
+🎯 Mình là một Data Analyst với niềm đam mê phân tích dữ liệu và kể chuyện bằng con số.  
+Hiện tại, mình đang trau dồi kỹ năng với **SQL, Excel, Power BI và Python** để khai thác insight hữu ích giúp doanh nghiệp ra quyết định hiệu quả hơn.
+
+---
+
+### 🔹 Dự án phân tích hành vi giữ chân khách hàng
+- Phân tích dữ liệu theo phương pháp Cohort.
+- Công cụ sử dụng: SQL, Excel, Power BI  
+- 👉 [📄 Xem báo cáo PDF](https://dannp122.github.io/Cohort-Retention-Project/Cohort_Retention.pdf)  
+- 🌐 [🔗 Trình bày dự án](https://dannp122.github.io/Cohort-Retention-Project/)
+
+---
+
+### 🧰 Kỹ năng
+
+- **Phân tích dữ liệu:** SQL, Excel, Power Query  
+- **Trực quan hóa dữ liệu:** Power BI, Tableau  
+- **Lập trình:** Python (pandas, matplotlib)  
 - **Khác:** Git, GitHub, Google Data Studio, Jupyter Notebook
 
 ---
 
-## 📫 Liên hệ
-
-- 📧 Email: pdan860@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/...](https://www.linkedin.com/in/...) *(nếu có)*  
-- 🌐 Portfolio: [https://dannp122.github.io/Phuong-Dan/](https://dannp122.github.io/Phuong-Dan/)
+📫 Email: pdan860@gmail.com  
+💼 LinkedIn: [https://www.linkedin.com/in/nguyen-phuong-dan/](https://www.linkedin.com/in/nguyen-phuong-dan/)  
+🌐 Portfolio: [https://dannp122.github.io/Phuong-Dan/](https://dannp122.github.io/Phuong-Dan/)
 
 ---
 
