@@ -19,8 +19,8 @@ I'm currently sharpening my skills in **SQL, Excel, Power BI, and Python** to he
 
 - **Data Analysis:** SQL, Excel, Power Query  
 - **Data Visualization:** Power BI, Tableau  
-- **Programming:** Python (pandas, matplotlib)  
-- **Others:** Git, GitHub, Google Data Studio, Jupyter Notebook
+- **Programming:** Python (basic)
+- **Others:** Google Data Studio, Jupyter Notebook
 
 ---
 
@@ -51,8 +51,8 @@ Hiện tại, mình đang trau dồi kỹ năng với **SQL, Excel, Power BI và
 
 - **Phân tích dữ liệu:** SQL, Excel, Power Query  
 - **Trực quan hóa dữ liệu:** Power BI, Tableau  
-- **Lập trình:** Python (pandas, matplotlib)  
-- **Khác:** Git, GitHub, Google Data Studio, Jupyter Notebook
+- **Lập trình:** Python (cơ bản)  
+- **Khác:** Google Data Studio, Jupyter Notebook
 
 ---
 
